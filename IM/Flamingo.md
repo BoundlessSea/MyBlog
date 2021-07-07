@@ -49,6 +49,7 @@ chatserver、fileserver、imgserver 这三个服务是相互独立的，可以�
 可以使用一下 lsof 命令查看端口是否处于正常侦听状态：
 
 [zhangyl@localhost flamingoserver]$ lsof -i -Pn
+
 COMMAND     PID    USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
 chatserve 18540 zhangyl   19u  IPv4 1129031      0t0  TCP *:20000 (LISTEN)
 chatserve 18540 zhangyl   27u  IPv4 1129032      0t0  TCP *:8888 (LISTEN)
