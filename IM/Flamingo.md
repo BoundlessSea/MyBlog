@@ -86,7 +86,7 @@ help
 这个解决方案包括三个工程项目，说明如下：
 
 
-项目名称项目说明
+项目名称|项目说明
 --|:--:	
 Flamingo.sln|flamingo pc版主程序
 CatchScreen|flamingo聊天中用的抓屏程序，类似QQ截图。
