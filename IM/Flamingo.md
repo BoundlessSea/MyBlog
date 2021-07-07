@@ -18,14 +18,9 @@ Flamingo IM 是一款高性能、轻量级的开源即时通讯软件，目前�
 
 首次启动聊天服务chatserver时，程序会自动检测是否存在flamingo这样的库，如果不存在则创建之，并检测相应的数据表是否存在，如果不存在则创建它们。所以，无需手动创建对应的库和表。当然，不排除由于不同的mysql版本对应的SQL语法有细微差别，可能建表会失败，这个时候你可能需要手动建表，建表语句在flamingoserver/table.sql中。flamingo目前使用的四个表分别是：
 
-1
-2
-3
-1. xxxx
-2. xxxxx
-3. xxxx
+表名|用途说明
+--|:--:|--:
+t_user|用户信息表
+t_user_relationship|好友关系及群成员信息表
+t_chatmsg|聊天记录表
 
-表名	用途说明
-t_user	用户信息表
-t_user_relationship	好友关系及群成员信息表
-t_chatmsg	聊天记录表
