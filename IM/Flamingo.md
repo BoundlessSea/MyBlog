@@ -51,11 +51,17 @@ chatserver、fileserver、imgserver 这三个服务是相互独立的，可以�
 [zhangyl@localhost flamingoserver]$ lsof -i -Pn
 
 COMMAND     PID    USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
+
 chatserve 18540 zhangyl   19u  IPv4 1129031      0t0  TCP *:20000 (LISTEN)
+
 chatserve 18540 zhangyl   27u  IPv4 1129032      0t0  TCP *:8888 (LISTEN)
+
 chatserve 18540 zhangyl   35u  IPv4 1129033      0t0  TCP *:12345 (LISTEN)
+
 fileserve 18552 zhangyl   25u  IPv4 1130523      0t0  TCP *:20001 (LISTEN)
+
 imgserver 18562 zhangyl   25u  IPv4 1131971      0t0  TCP *:20002 (LISTEN)
+
 端口号	所属服务	用途说明
 20000	chatserver	聊天端口
 8888	chatserver	聊天服务的监控端口，可以使用telnet或nc命令远程连接至聊天服务去查看服务器的一些实时状态信息
