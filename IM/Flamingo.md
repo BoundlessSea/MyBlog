@@ -63,7 +63,8 @@ imgserver 18562 zhangyl   25u  IPv4 1131971      0t0  TCP *:20002 (LISTEN)
 8888|chatserver|聊天服务的监控端口，可以使用telnet或nc命令远程连接至聊天服务去查看服务器的一些实时状态信息
 12345|chatserver|聊天服务的http端口，聊天服务不仅支持长连接，也支持http短连接。
 20001|fileserver|文件服务端口
-20002|imgserver|图片服务端口
+20002|imgserver|图片服务端口  
+
 上表中的8888端口可以使用nc命令，使用方式： nc -v ip port 去连接，其中port这里就是 8888，-v 选项是 nc 命令支持的选项，表示要求显示的信息丰富一点。示例：
 
 [zhangyl@localhost flamingoserver]$ nc -v 127.0.0.1 8888
