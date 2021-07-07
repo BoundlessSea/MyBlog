@@ -91,6 +91,7 @@ help
 Flamingo.sln|flamingo pc版主程序
 CatchScreen|flamingo聊天中用的抓屏程序，类似QQ截图。
 iUpdateAuto|用户pc端自动升级的zip解压工具。
+
 ​ 生成后的程序位于目录flamingoclient\Bin目录下，其中客户端与服务器的连接配置信息位于flamingoclient\Bin\config\flamingo.ini文件中，直接打开Flamingo.exe即可启动flamingo pc端。
 
 安卓客户端编译和安装
