@@ -1,6 +1,7 @@
 # 开源技术分享
 
-[GitHub上项目趋势](https://github.com/trending/)
+1.[GitHub上项目趋势](https://github.com/trending/)
+2.[GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
 ## IM
  
