@@ -2,7 +2,8 @@
 关注前沿技术，创作、汇总和分享各种资源信息等。  
 声明：分享和转发相关信息请保留作者信息，部分资源来源于网络，侵权请联系删除。
 
-## 关注GitHub项目
+## 关注开源动态
+### 关注GitHub项目
 1.[GitHub上项目趋势](https://github.com/trending/)  
 2.[GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
 3.[分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)  
