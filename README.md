@@ -10,6 +10,9 @@
 4.[中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)  
 5.[国内顶尖团队的开源地址](https://github.com/niezhiyang/open_source_team)  
 
+## 优质项目
+1.[Doocs](https://github.com/BoundlessSea/MyBlog/blob/main/%E4%BC%98%E8%B4%A8%E9%A1%B9%E7%9B%AE/Doocs.md)
+
 ## IM
 1.[flamingo  一款高性能轻量级开源即时通讯软件](https://github.com/balloonwj/flamingo) 
 [个人心得](https://github.com/BoundlessSea/OpenSourceTechnologyShare/blob/main/IM/Flamingo.md)
