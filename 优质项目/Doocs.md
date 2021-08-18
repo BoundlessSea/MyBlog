@@ -9,11 +9,9 @@ Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知
     GitHub Pages: https://doocs.github.io
     
     
-    项目
-
+项目
 目前 Doocs 有以下多个热门项目：
-# 	项目 	描述 	热度
-1 	advanced-java 	互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。 	
+1   advanced-java 	互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。 	
 2 	leetcode 	多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。 	
 3 	source-code-hunter 	互联网常用组件框架源码分析。 	
 4 	jvm 	Java 虚拟机底层原理知识总结。 	
